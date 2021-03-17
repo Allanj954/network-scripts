@@ -1,3 +1,6 @@
+import paramiko
+#mac_address_finder will recursively connect to managed devices on a subnet and search for identified mac address and its designated port.
+
 class mac_address_finder:
     def __init__(self):
         #For production environment, do not store device information in clear text.

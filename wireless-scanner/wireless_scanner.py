@@ -1,6 +1,3 @@
-#cloned from https://github.com/x4nth055/pythoncode-tutorials/blob/ecad21aa0c7c3254517299d582edea0cb39183b0/scapy/wifi-scanner/wifi_scanner.py
-#Edit in progress
-
 from scapy.all import *
 from threading import Thread
 import pandas

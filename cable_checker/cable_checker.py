@@ -1,4 +1,3 @@
-#Unfinished and untested
 from netmiko import ConnectHandler
 import time
 
